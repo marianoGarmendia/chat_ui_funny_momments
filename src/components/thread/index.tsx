@@ -448,7 +448,7 @@ export function Thread() {
                     <div className="flex flex-col items-center gap-3">
                       <div className="flex items-center gap-2 py-2 text-center">
                         <h1 className="text-2xl font-bold text-gray-800">
-                          Funny Momments
+                          Funny Moments
                         </h1>
                         {/* <p className="text-xl text-gray-700">Agente IA</p> */}
                       </div>
