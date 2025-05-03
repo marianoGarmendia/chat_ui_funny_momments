@@ -524,7 +524,7 @@ export function Thread() {
                 )}
                 {chatStarted && (
                   <p className="absolute bottom-1 text-center text-xs text-gray-400">
-                    Powered by WinWinSaaS
+                    Powered by MarianoDev
                   </p>
                 )}
               </div>

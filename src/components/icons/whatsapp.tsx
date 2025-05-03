@@ -1,9 +1,9 @@
 import {WhatsappIcon } from "next-share";
 
 const WhatsappAhare = () => {
-  const mensaje = encodeURIComponent(`Encuentra la propiedad de tus sueños`);
+  const mensaje = encodeURIComponent(`Encontrá lo mejor para cumpleaños infantiles en Funny Momments!`);
   const enlaceGrupo = encodeURIComponent(
-    "https://contracttic-w2wtb-portafolio.my.canva.site/winwinsaas-landing",
+    "https://chat-ui-funny-momments.onrender.com",
   );
   const url = `https://wa.me/?text=${mensaje}%20${enlaceGrupo}`;
 
